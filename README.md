@@ -1,1 +1,1 @@
-# basic-landing-page
+This academic project was a simple landing page that I created based on a figma file that I found on YouTube about a boot to communities/channels in discord. This project was intended to only practice HTML and CSS.
